@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+dataset/
+model/
+static/uploads/*
+!static/uploads/.gitkeepdataset/
+model/
+__pycache__/
+.venv/
+.env

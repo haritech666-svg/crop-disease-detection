@@ -1,0 +1,6 @@
+flask==3.0.0
+torch
+torchvision
+Pillow==10.1.0
+groq==0.4.2
+werkzeug==3.0.1

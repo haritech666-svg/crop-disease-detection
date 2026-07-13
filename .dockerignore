@@ -1,0 +1,14 @@
+# Ignore the massive dataset
+dataset/
+
+# Ignore the virtual environment
+.venv/
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore uploaded test images
+static/uploads/*
+!static/uploads/.gitkeep
